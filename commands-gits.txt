@@ -1,0 +1,1 @@
+git clone:permet de cloner , git add . , git commit -m commentaire , git push liendeGithub
